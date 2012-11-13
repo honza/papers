@@ -1,0 +1,45 @@
+\documentclass[10.5pt]{article}
+\usepackage[paperwidth=5.5in, paperheight=8.5in]{geometry}
+\usepackage{setspace}
+\usepackage{fontspec}
+\setmainfont [Ligatures={Common,TeX}, Numbers={OldStyle}]{Aldine721 BT}
+
+$for(header-includes)$
+    $header-includes$
+$endfor$
+
+$if(title)$
+    \title{$title$}
+$endif$
+
+$if(author)$
+\author{$author$}
+$endif$
+
+\begin{document}
+
+\begin{spacing}{1.2}
+
+$if(title)$
+    \maketitle
+    \clearpage
+$endif$
+
+$for(include-before)$
+    $include-before$
+$endfor$
+
+$if(toc)$
+    \tableofcontents
+    \clearpage
+$endif$
+
+$body$
+
+$for(include-after)$
+    $include-after$
+$endfor$
+
+\end{spacing}
+
+\end{document}

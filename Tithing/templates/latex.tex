@@ -1,0 +1,41 @@
+\documentclass$if(fontsize)$[$fontsize$]$endif${article}
+\usepackage{fontspec}
+\setmainfont [Ligatures={Common,TeX}, Numbers={OldStyle}]{Baskerville}
+
+$for(header-includes)$
+    $header-includes$
+$endfor$
+
+$if(title)$
+    \title{$title$}
+$endif$
+
+\date{September 13, 2012}
+
+$if(author)$
+\author{$author$}
+$endif$
+
+\begin{document}
+
+$if(title)$
+    \maketitle
+    \clearpage
+$endif$
+
+$for(include-before)$
+    $include-before$
+$endfor$
+
+$if(toc)$
+    \tableofcontents
+    \clearpage
+$endif$
+
+$body$
+
+$for(include-after)$
+    $include-after$
+$endfor$
+
+\end{document}
