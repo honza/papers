@@ -40,10 +40,22 @@ misunderstand what God is trying to communicate to us.  I believe that we have
 strayed from the biblical picture of church organization and this is my attempt
 to be faithful to the word of God.
 
-I don't want us to deceive ourselves.  As Augustine said:
+D. A. Carson said:
+
+> Those who don't have a high view of Scripture, do not feel bound to obey
+> it.[^16]
+
+Further, I don't want us to deceive ourselves.  As Augustine said:
 
 > If you believe what you like in the gospel, and reject what you don't like, it
 > is not the gospel you believe, but yourself.[^2]
+
+Francis Chan speaks of our tendency to memorize Scripture verses without acting
+on them.  He compares Christianity to a game of *Simon says*.  In *Simon says*,
+you listen to what Simon says and then you have to do it.  Chan says that in
+Christianity, we often feel like we just have to memorize what Jesus says but
+we don't have to do it.[^14]  I want us to be doers and not just hearers of the
+Word[^15].
 
 Effectiveness
 -------------
@@ -654,3 +666,6 @@ to avoid any gossip.
 [^12]: The issue of women elders is far beyond the scope of this paper.  I
 would be happy to discuss this much further if there is need.
 [^13]: What a glorious thought!
+[^14]: Francis Chan, http://www.youtube.com/watch?v=9KIA-DGx_3Y
+[^15]: James 1:23
+[^16]: http://thegospelcoalition.org/listen.php?file=http://j.mp/FRicDM
