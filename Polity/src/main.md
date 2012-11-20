@@ -664,7 +664,11 @@ to avoid any gossip.
 [^10]: Greek: presbyteros, Strong's G4245
 [^11]: Greek: poimen, Strong's G4166
 [^12]: The issue of women elders is far beyond the scope of this paper.  I
-would be happy to discuss this much further if there is need.
+would be happy to discuss this much further if there is need.  It is important
+to note, however, that the Bible doesn't devalue or condemn women.  It is my
+view that men and women are equal in worth, inteligency, ability, etc.  The
+only thing I'm arguing is that the Bible prescribes the office of an elder to
+be reserved to men.
 [^13]: What a glorious thought!
 [^14]: Francis Chan, http://www.youtube.com/watch?v=9KIA-DGx_3Y
 [^15]: James 1:23
