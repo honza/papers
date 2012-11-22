@@ -181,6 +181,9 @@ Now that we have an idea of how church government works at Bedford Baptist
 Church, we should survey the Bible to see what it teaches on proper church
 polity.
 
+The Bible prescribes a structure where the general flock of believers is
+shepherded by a group of shepherds.
+
 The New Testament describes two offices to be held within the local church: an
 *elder* and a *deacon*.
 
@@ -520,6 +523,11 @@ the original believers, could easily affect the church's decision in one way or
 the other.  Instead, we should select mature Christians whose experience and
 knowledge of the Scriptures is deep to make these kinds of decisions.  I
 believe that Paul prescribes the elders to be such people.
+
+Moreover, going back to the description of biblical polity, the flock of
+believers needs to have shepherds.  As we know, sheep aren't the smartest of
+animals and need a strong leading hand.  Our current system supposes that sheep
+are capable of leading themselves.
 
 Business-likeness of church meetings
 ------------------------------------
