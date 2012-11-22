@@ -322,35 +322,6 @@ The apostle Paul says to Timothy that elders ought to rule the local church.
 > Let the elders who *rule* well be considered worthy of double honor,
 > especially those who labor in preaching and teaching. (1 Timothy 5:17)
 
-The Bible teaches that the office of elder is reserved to men.
-
-> I do not permit a woman to teach or to exercise authority over a man; rather,
-> she is to remain quiet. For Adam was formed first, then Eve; and Adam was not
-> deceived, but the woman was deceived and became a transgressor.  (1 Timothy
-> 2:12-14)
-
-We can see that Paul grounds his command in the order of creation meaning that
-this is a prescription applicable in all cultures.  In addition, later in the
-epistle, Paul tells us that this is how we ought to conduct our services:
-
-> I hope to come to you soon, but I am writing these things to you so that, if
-> I delay, you may know how one ought to behave in the household of God, which
-> is the church of the living God, a pillar and buttress of the truth.  (1
-> Timothy 3:14-15)
-
-I realize that this might the most controversial point of this exercise.  In
-our culture today, media fills our minds with strong statements of gender
-equality and human rights.  It is important to understand that by preventing
-women from entering into the top level of local church government we aren't
-saying that women aren't able or worthy of such position.  Unquestionably,
-there are some very intelligent women in the world (my wife included!) and the
-last thing I want to do is say that women aren't capable of doing this job.
-What I do want to stress, though, is the issue of obedience to the word of God.
-The Bible clearly teaches that the office of elder is reserved to men and if we
-choose to ignore this part of the Holy Scriptures, where will we stop?  What is
-next?  Shall we also support gay marriages?  Shall we endorse abortions?  No,
-of course not.[^12]
-
 Additionally, I think having several elders be the ruling force in the church
 makes practical sense.  When an urgent, unexpected need arises, the dozen or so
 elders can all call each other on the phone and figure out what to do.  We
@@ -606,10 +577,9 @@ twenty or thirty.
 Establish elders and deacons
 ----------------------------
 
-We should select from our midst a number of elders to lead the church.  The
-elders should be all men with the necessary qualifications given in 1 Timothy.
-We should include current pastors in the group of elders in obedience to the
-New Testament.  We should ascribe to them ruling power.
+We should select from our midst a number of elders to lead the church.  We
+should include current pastors in the group of elders in obedience to the New
+Testament.  We should ascribe to them ruling power.
 
 Once we have establish elders, the elders should select and appoint as many
 deacons as necessary.
@@ -637,11 +607,8 @@ Further Reading
 ===============
 
 * Steven Cowan, *Who Runs the Church?: 4 Views on Church Government*
-* John Piper, *Manhood, Womanhood, and the Freedom to Minister*
 * John Piper, *Rethinking the Governance Structure at Bethlehem Baptist Church*
-* Wayne Grudem, *Evangelical Feminism & Biblical Truth*
 * Mark Driscoll, *Doctrine*
-* James Beck, *Two Views on Women in Ministry*
 
 [^1]: ESV, and for all future Bible references unless otherwise stated.
 [^2]: Augustine, Sermons
@@ -663,12 +630,6 @@ to avoid any gossip.
 [^9]: Greek: episkopos, Strong's G1985
 [^10]: Greek: presbyteros, Strong's G4245
 [^11]: Greek: poimen, Strong's G4166
-[^12]: The issue of women elders is far beyond the scope of this paper.  I
-would be happy to discuss this much further if there is need.  It is important
-to note, however, that the Bible doesn't devalue or condemn women.  It is my
-view that men and women are equal in worth, inteligency, ability, etc.  The
-only thing I'm arguing is that the Bible prescribes the office of an elder to
-be reserved to men.
 [^13]: What a glorious thought!
 [^14]: Francis Chan, http://www.youtube.com/watch?v=9KIA-DGx_3Y
 [^15]: James 1:23
