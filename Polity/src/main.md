@@ -334,6 +334,26 @@ committee to meet and pass a motion allowing this sum of money to be releases,
 etc.  The ruling elders have the authority to do this among themselves.  This
 can be very efficient and fast.
 
+Lastly, here is a list of duties of an elder:
+
+* Pray and study Scripture (Acts 6:4).
+* Rule/lead the church (1 Tim. 5:17).
+* Manage the church (1 Tim. 3:4–5).
+* Care for people in the church (1 Pet. 5:2–5).
+* Give account to God for the church (Heb. 13:17).
+* Live exemplary lives (Heb. 13:7).
+* Rightly use the authority God has given them (Acts 20:28).
+* Teach the Bible correctly (Eph. 4:11; 1 Tim. 3:2).
+* Preach (1 Tim. 5:17).
+* Pray for the sick (James 5:13–15).
+* Teach sound doctrine and refute false teachings (Titus 1:9).
+* Work hard (1 Thess. 5:12).
+* Rightly use money and power (1 Pet. 5:1–3).
+* Protect the church from false teachers (Acts 20:17–31).
+* Discipline unrepentant Christians (Matt. 18:15–17).
+* Obey local, state, and federal laws (Rom. 13:1–7).
+* Develop other leaders and teachers (Eph. 4:11–16; 2 Tim. 2:1–2).
+
 Deacons
 -------
 
@@ -611,12 +631,6 @@ a serious offense.
 I would like to start a dialog around this issue.  I welcome any feedback,
 criticism, request for clarification and so on.
 
-Further Reading
-===============
-
-* Steven Cowan, *Who Runs the Church?: 4 Views on Church Government*
-* John Piper, *Rethinking the Governance Structure at Bethlehem Baptist Church*
-* Mark Driscoll, *Doctrine*
 
 [^1]: ESV, and for all future Bible references unless otherwise stated.
 [^2]: Augustine, Sermons
