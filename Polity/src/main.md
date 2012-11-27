@@ -141,10 +141,13 @@ The Executive committee
 > shall be responsible for the efficient management of the affairs of the
 > Church business between business meetings
 
-and it consists of Chairmen of all of the above committees.  It is understood
-in this context that the business meeting is a meeting of the assembly of all
-members of the church.  The Executive is the highest body of power, right under
-the assembly of the people.
+It is understood in this context that the business meeting is a meeting of the
+assembly of all members of the church.  The Executive is the highest body of
+power, right under the assembly of the people.  It consists of
+
+> Pastoral Staff (ex-officio), Moderator, Vice Moderator, Church
+> Clerk/Assistant Church Clerk, Treasurer together with the Chairperson of
+> Deacons, Trustees, Finance, Christian Education and Missions Committees.
 
 Congregational votes
 --------------------
